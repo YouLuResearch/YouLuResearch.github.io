@@ -15,11 +15,12 @@ Research Interest: Corporate Finance, Risk management, ESG, Supply-chain
 
 **Publications**
 
-[1] Fang, Yiwei, Sang Baum Kang, and **You Lu***. "Promoting financial stability of oil producers: Operational vs. financial hedging." _Journal of Financial Stability_ 67 (2023): 101152.
+[1] Fang, Yiwei, Sang Baum Kang, and **You Lu***., 2023 "Promoting financial stability of oil producers: Operational vs. financial hedging." _Journal of Financial Stability_. (ABS-3, ABDC-A)
 
-[2]
+**Working Papers**
+[1] **Lu, You**, Fang, Yiwei*, Iftekhar Hasan, and Wu, Qiang. "Do Tax Rates Affect Corporate Social Responsibility? A Natural Experiment from Corporate Tax Reforms." _Journal of Accounting, Auditing, and Finance_. (ABS-3, ABDC-A) **[R&R]**
 
-[3]
+[2] **Lu, You**, Fang, Yiwei*, Li, Qian and Sun, Jiong., 2024 "The Wealth Effect of Supplier IPOs along the Supply Chain." The British Accounting Review. (ABS-3, ABDC-A*) **[R&R]**
 
 Here is my CV.
 
