@@ -19,9 +19,9 @@ Research Interest: Corporate Finance, Risk management, ESG, Supply-chain
 
 **Working Papers**
 
-[1] **Lu, You**, Fang, Yiwei*, Hasan, Iftekhar, and Wu, Qiang. "Do Tax Rates Affect Corporate Social Responsibility? A Natural Experiment from Corporate Tax Reforms." _Journal of Accounting, Auditing, and Finance_. (ABS-3, ABDC-A) **[R&R]**
+[1] **Lu, You**, Fang, Yiwei*, Hasan, Iftekhar, and Wu, Qiang., 2024 "Do Tax Rates Affect Corporate Social Responsibility? A Natural Experiment from Corporate Tax Reforms." _Journal of Accounting, Auditing, and Finance_. (ABS-3, ABDC-A) **[R&R]**
 
-[2] **Lu, You**, Fang, Yiwei*, Li, Qian and Sun, Jiong., 2024 "The Wealth Effect of Supplier IPOs along the Supply Chain." _The British Accounting Review_. (ABS-3, ABDC-A*) **[R&R]**
+[2] **Lu, You**, Fang, Yiwei*, Li, Qian, and Sun, Jiong., 2024 "The Wealth Effect of Supplier IPOs along the Supply Chain." _The British Accounting Review_. (ABS-3, ABDC-A*) **[R&R]**
 
 Here is my CV.
 
