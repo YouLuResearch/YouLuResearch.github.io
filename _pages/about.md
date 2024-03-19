@@ -23,6 +23,6 @@ Research Interest: Corporate Finance, Risk management, ESG, Supply-chain
 
 [2] **Lu, You**, Fang, Yiwei*, Li, Qian, and Sun, Jiong., 2024 "The Wealth Effect of Supplier IPOs along the Supply Chain." _The British Accounting Review_. (ABS-3, ABDC-A*) **[R&R]**
 
-Here is my CV.
+Here is my [CV](../assets/CV_202403.pdf).
 
 
