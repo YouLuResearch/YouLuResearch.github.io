@@ -15,7 +15,7 @@ Research Interest: Corporate Finance, Risk management, ESG, Supply-chain
 
 **Publications**
 
-[1] Fang, Yiwei, Sang Baum Kang, and **You Lu***. "Promoting financial stability of oil producers: Operational vs. financial hedging." Journal of Financial Stability 67 (2023): 101152.
+[1] Fang, Yiwei, Sang Baum Kang, and **You Lu***. "Promoting financial stability of oil producers: Operational vs. financial hedging." _Journal of Financial Stability_ 67 (2023): 101152.
 
 [2]
 
